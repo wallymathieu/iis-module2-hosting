@@ -8,11 +8,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8596E312-C428-462D-94E6-892B5880C8BB}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api2", "Api2\Api2.csproj", "{05C1F915-6787-40BF-A3E0-1214EB741414}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api3", "Api3\Api3.csproj", "{1AE736D2-3D6A-4F75-A4AF-C9CF10606E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Provision", "Provision\Provision.csproj", "{B9E429D1-2E1E-44FC-8385-AD752CEB3E3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +35,10 @@ Global
 		{1AE736D2-3D6A-4F75-A4AF-C9CF10606E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AE736D2-3D6A-4F75-A4AF-C9CF10606E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AE736D2-3D6A-4F75-A4AF-C9CF10606E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E429D1-2E1E-44FC-8385-AD752CEB3E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E429D1-2E1E-44FC-8385-AD752CEB3E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E429D1-2E1E-44FC-8385-AD752CEB3E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E429D1-2E1E-44FC-8385-AD752CEB3E3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
